@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Primeiro Jogo de Nava resgate
+Primeiro Jogo de Nave Resgate
 </h1>
 
 <p align="center">O projeto consiste em um pequeno jogo de Naves onde você tem um placar para marca a pontuação de aliados resgatados e inimigos eliminado.
